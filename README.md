@@ -89,4 +89,4 @@ endmodule
 
 **RESULTS**
 
-Thus the JK flipflop is implemented and verified.
+sucessfully implemented JK flipflop using verilog and validating their functionality using their functional tables
